@@ -27,7 +27,7 @@ const Hero = () => {
                 </div>
             </div>
             <Image
-                src="/images/dashboard.webp"
+                src="/images/dashboard.png"
                 alt='Dashboard'
                 width={1000}
                 height={800}
